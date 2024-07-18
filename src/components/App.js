@@ -45,6 +45,24 @@ if (e.key=='Enter') {
      <ul>
      {render && <li> <h2>{data.Title}</h2>
      <img src={data.Poster} alt="Image" /></li>}
+     {render && <li> <h2>{data.Title}</h2>
+     <img src={data.Poster} alt="Image" /></li>}
+     {render && <li> <h2>{data.Title}</h2>
+     <img src={data.Poster} alt="Image" /></li>}
+     {render && <li> <h2>{data.Title}</h2>
+     <img src={data.Poster} alt="Image" /></li>}
+     {render && <li> <h2>{data.Title}</h2>
+     <img src={data.Poster} alt="Image" /></li>}
+     {render && <li> <h2>{data.Title}</h2>
+     <img src={data.Poster} alt="Image" /></li>}
+     {render && <li> <h2>{data.Title}</h2>
+     <img src={data.Poster} alt="Image" /></li>}
+     {render && <li> <h2>{data.Title}</h2>
+     <img src={data.Poster} alt="Image" /></li>}
+     {render && <li> <h2>{data.Title}</h2>
+     <img src={data.Poster} alt="Image" /></li>}
+     {render && <li> <h2>{data.Title}</h2>
+     <img src={data.Poster} alt="Image" /></li>}
      </ul>
       {err && <div className="error">Invalid movie name. Please try again.</div>}
        {/* Do not remove the main div */}
